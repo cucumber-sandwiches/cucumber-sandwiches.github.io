@@ -1,0 +1,8 @@
+baseURL = "https://recipesbook.netlify.com/"
+languageCode = "en-us"
+title = "Cucumber Sandwiches And Tea"
+theme = "recipes"
+
+[params]
+  author = "Anne & Matthias"
+  description = "Anne & Matthias' Recipe Book"
