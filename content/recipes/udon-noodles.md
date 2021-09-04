@@ -5,7 +5,7 @@ summary: "Kimchi Udon Noodles"
 draft: false
 time: "15m"
 tags: ["vegan", "noodles", "fast"]
-featured_image: "/udon-noodles.jpg"
+featured_image: "/udon-noodles-small.jpg"
 ---
 
 ## Ingredients
