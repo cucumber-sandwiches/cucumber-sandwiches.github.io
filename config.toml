@@ -1,5 +1,5 @@
-baseURL = "https://recipesbook.netlify.com/"
-languageCode = "en-us"
+baseURL = "https://cucumber-sandwiches.github.io/"
+languageCode = "en-gb"
 title = "Cucumber Sandwiches And Tea"
 theme = "recipes"
 
