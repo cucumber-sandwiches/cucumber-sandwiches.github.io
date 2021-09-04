@@ -1,5 +1,7 @@
 ---
 title: Plantain Curry
+time: 45m
+tags: [curry, nonveg]
 featured_imge: bananananacurry.jpg
 ---
 
@@ -13,7 +15,7 @@ featured_imge: bananananacurry.jpg
 - 400 ml coconut milk
 - 1 tbls. sugar
 - 1 tbls. vinegar
-- 4 tbls. fish sauce
+- 4 tbls. fish sauce or veg alternative such as lupin sauce or plum sauce
 - 3 cm ginger
 - 1 tsp. coriander green
 - lemon grass
@@ -35,5 +37,3 @@ featured_imge: bananananacurry.jpg
 Plantains are cooking banananas (like Nanny Ogg we know how to spell banana, we just don't know how to stop) and we got ours from a local Asian super market.
 
 They taste like banana but have the consistency (and cooking properties) of a potato. The curry can also be prepared with potatoes instead of plantains. In this case, use about 4-5 potatoes.
-
-Concerning the fish sauce: If you want to make a vegetarian version, you can replace it with soy sauce. Although fish sauce adds more flavour (and doesn't make it taste "fishy" at all).

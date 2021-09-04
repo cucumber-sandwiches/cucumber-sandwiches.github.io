@@ -1,5 +1,7 @@
 ---
 title: Kaiser rolls
+time: 2h
+tags: [bread]
 featured_image: kaiser-rolls.jpg
 ---
 

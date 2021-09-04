@@ -1,5 +1,7 @@
 ---
 title: Rosemary Rolls
+time: 30m
+tags: [bread]
 featured_image: rosmaryrolls2.JPG
 ---
 

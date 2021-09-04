@@ -9,6 +9,6 @@ I'm not quite happy with the way the hair turned out, it looks sort of like a he
 
 The next few pictures show the lemmings on the cake. Yum.
 
-![](IMG_1004.JPG)
+![](/IMG_1004.JPG)
 
-![](IMG_1002.JPG)
+![](/IMG_1002.JPG)

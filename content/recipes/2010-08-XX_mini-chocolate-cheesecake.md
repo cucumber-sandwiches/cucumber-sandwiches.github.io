@@ -1,5 +1,6 @@
 ---
 title: Mini Chocolate Cheesecake
+tags: [desert, chocolate]
 featured_image: IMG_1457.JPG
 ---
 

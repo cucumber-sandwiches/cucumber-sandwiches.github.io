@@ -1,5 +1,6 @@
 ---
 title: Scarborough Muffins
+tags: [bread, finger-food]
 featured_image: scarboroughmuffins.JPG
 ---
 

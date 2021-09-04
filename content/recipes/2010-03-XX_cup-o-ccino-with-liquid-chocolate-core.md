@@ -1,5 +1,7 @@
 ---
 title: Cup-O'-Ccino
+time: 45m
+tags: [desert, chocolate]
 featured_image: cupoccino.jpg
 ---
 

@@ -3,7 +3,7 @@ title: Lentil paté
 featured_image: IMG_0617.JPG
 ---
 
-![](IMG_0620.JPG)
+![](/IMG_0620.JPG)
 
 ## Ingredients
 

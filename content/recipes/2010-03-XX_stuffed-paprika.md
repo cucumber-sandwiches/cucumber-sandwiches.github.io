@@ -31,4 +31,4 @@ We made one large paprika (ca. 350g) per person.
 7. Fill the paprika with the cream cheese mixture.
 8. Wrap in aluminium foil and place in the oven for 45 minutes.
 
-![Our cat licking the leftovers](Paprika_CA.jpg)
+![Our cat licking the leftovers](/Paprika_CA.jpg)

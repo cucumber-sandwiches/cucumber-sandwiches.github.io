@@ -1,5 +1,7 @@
 ---
 title: Tomato-Gorgonzola Pasta
+time: 30m
+tags: [pasta]
 featured_image: Tomaten-Gorgonzola-Nudeln.jpg
 ---
 

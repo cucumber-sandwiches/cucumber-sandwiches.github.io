@@ -1,5 +1,6 @@
 ---
 title: Lentil soup
+tags: [soup, vegan]
 featured_image: miso-soup.jpg
 ---
 

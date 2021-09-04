@@ -1,5 +1,6 @@
 ---
 title: 3 kinds of dip
+tags: [dip]
 ---
 
 *( we forgot to take pictures :( )*

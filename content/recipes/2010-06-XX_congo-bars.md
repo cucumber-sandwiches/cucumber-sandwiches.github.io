@@ -1,5 +1,6 @@
 ---
 title: Congo Bars
+tags: [desert, chocolate, finger-food]
 featured_image: congobars.JPG
 ---
 

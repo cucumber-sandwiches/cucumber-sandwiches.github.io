@@ -1,5 +1,6 @@
 ---
 title: Honey-Balsamico Sauce
+tags: [sauce]
 featured_image: IMG_1285.JPG
 ---
 

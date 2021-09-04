@@ -1,5 +1,6 @@
 ---
 title: Tomato-Mozzarella Baguette
+tags: [bread, finger-food]
 featured_image: IMG_0613.JPG
 ---
 

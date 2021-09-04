@@ -1,5 +1,6 @@
 ---
 title: Courgette soup
+tags: [soup]
 featured_image: IMG_0630.JPG
 ---
 

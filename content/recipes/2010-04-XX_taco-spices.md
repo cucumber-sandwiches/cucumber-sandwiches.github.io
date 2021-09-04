@@ -1,5 +1,6 @@
 ---
 title: Spiced Soy Granulate for Tacos
+tags: [vegan]
 featured_image: tacospice.JPG
 ---
 

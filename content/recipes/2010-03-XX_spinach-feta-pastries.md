@@ -1,5 +1,7 @@
 ---
 title: Spinach-feta pastries
+time: 1h
+tags: [finger-food]
 featured_image: IMG_0875.JPG
 ---
 

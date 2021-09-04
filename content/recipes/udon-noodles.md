@@ -1,7 +1,7 @@
 ---
 title: Kimchi Udon
 time: 15m
-tags: ["vegan", "noodles", "fast"]
+tags: ["noodles", "fast"]
 featured_image: udon-noodles-small.jpg
 ---
 

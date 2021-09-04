@@ -1,5 +1,6 @@
 ---
 title: Cucumber Sandwiches
+tags: [bread, finger-food]
 featured_image: cucumbersandwiches.JPG
 ---
 

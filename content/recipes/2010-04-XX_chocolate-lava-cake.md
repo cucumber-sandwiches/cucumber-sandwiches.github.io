@@ -1,5 +1,6 @@
 ---
 title: Chocolate lava cake
+tags: [desert, chocolate]
 featured_image: chocolatelava2.JPG
 ---
 

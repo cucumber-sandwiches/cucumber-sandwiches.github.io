@@ -1,5 +1,7 @@
 ---
 title: Kumquat Muffins
+time: 40m
+tags: [desert, finger-food]
 featured_image: kumquatmuffins.JPG
 ---
 

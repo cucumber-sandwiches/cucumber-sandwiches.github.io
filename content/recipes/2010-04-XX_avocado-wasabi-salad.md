@@ -1,5 +1,6 @@
 ---
 title: Avocado Wasabi Salad
+tags: [salad, vegan]
 featured_image: IMG_1023.JPG
 ---
 

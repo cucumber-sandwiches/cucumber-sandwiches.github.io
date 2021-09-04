@@ -1,5 +1,7 @@
 ---
 title: Miso soup
+time: 15m
+tags: [soup, vegan]
 featured_image: miso-soup.jpg
 ---
 

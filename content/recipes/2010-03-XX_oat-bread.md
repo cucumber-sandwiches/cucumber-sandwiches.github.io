@@ -1,5 +1,7 @@
 ---
 title: Oat bread
+time: 1d
+tags: [bread]
 featured_image: oat-bread.jpg
 ---
 

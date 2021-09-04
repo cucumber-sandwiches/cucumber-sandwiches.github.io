@@ -1,5 +1,6 @@
 ---
 title: Schweineohren / "Pig ears"
+tags: [finger-food, baking]
 featured_image: IMG_0682.JPG
 ---
 

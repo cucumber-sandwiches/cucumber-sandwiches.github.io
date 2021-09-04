@@ -1,5 +1,6 @@
 ---
 title: Zucchini Gnocchi
+tags: [gnocchi]
 featured_image: gnocchizucchini.JPG
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: Guacamole
+tags: [dip, vegan]
+time: 10m
 featured_image: Guacamole.jpg
 ---
 
