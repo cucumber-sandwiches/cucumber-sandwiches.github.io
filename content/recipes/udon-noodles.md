@@ -8,6 +8,7 @@ tags: ["vegan", "noodles", "fast"]
 featured_image: "/udon-noodles-small.jpg"
 ---
 
+
 ## Ingredients
 
 **Noodles**
@@ -20,6 +21,8 @@ featured_image: "/udon-noodles-small.jpg"
 - Sesame Seeds
 - 1 egg yellow per plate
 - spring onion
+
+
 
 ## Directions
 1. Drain the kimchi, retaining the liquid.
