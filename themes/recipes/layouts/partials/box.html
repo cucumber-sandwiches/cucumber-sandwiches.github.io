@@ -1,17 +1,17 @@
 <a class="box" href="{{ .Permalink }}" aria-label="{{ .Title }}">
   <div class="is-flex">
-    {{ with .Params.featured_image }}
-    <figure class="image is-48x48" style="margin-right: 0.5em;">
-      <img alt="{{ . }}" class="is-rounded" src="{{ . }}" />
-    </figure>
+    {{ with .Params.featured_image | default "noimage.png" }}
+      <figure class="image is-48x48" style="margin-right: 0.5em; border-radius: 290486px; overflow: clip;">
+        <img alt="" style="height: 48px" src="/{{ . }}" />
+      </figure>
     {{ end }}
     <div>
       <div>{{ .Title }}</div>
-      <small class="has-text-grey">{{ .Summary }}</small>
+      <small class="has-text-grey">{{ .Params.Description }}</small>
     </div>
   </div>
   <div style="margin-top: 0.5em;">
-    <span class="tag is-primary is-light">{{ .Params.Time }}</span>
+    <span class="tag is-primary is-light">{{ .Params.Time | default "—" }}</span>
     {{ range .Params.Tags }}
     <span class="tag">{{ . }}</span>
     {{ end }}

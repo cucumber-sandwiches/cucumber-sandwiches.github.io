@@ -1,8 +1,0 @@
-{{ if .Parent }}
-{{ $width := .Get "width" }}
-<div class="colitem" style="flex-basis: {{ $width }};">
-  {{ .Inner | markdownify }}
-</div>
-{{ else }}
-{{ errorf "%q: 'bigcolumn' must be inside leftrightcolumns" .Page.Path }}
-{{ end }}

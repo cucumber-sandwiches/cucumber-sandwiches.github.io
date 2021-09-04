@@ -1,4 +1,0 @@
-{{ $align := default "center" (.Get "align") }}
-<div class="column-container" style="align-items: {{ $align }}">
-  {{ printf "%s" .Inner | safeHTML }}
-</div>

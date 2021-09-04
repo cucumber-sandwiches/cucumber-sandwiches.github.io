@@ -4,21 +4,21 @@
         <header>
             <div class="is-flex">
                 {{ with .Params.featured_image }}
-                <figure class="image is-96x96" style="margin-right: 0.5em;">
-                    <img alt="{{ . }}" class="is-rounded" src="{{ . }}" />
-                </figure>
+                    <figure class="image is-96x96" style="margin-right: 0.5em; border-radius: 290486px; overflow: clip;">
+                        <img alt="" style="height: 96px" src="/{{ . }}" />
+                    </figure>
                 {{ end }}
                 <div>
                     <h1 class="title is-1">
                         {{ .Title }}
                     </h1>
                     <h6 class="subtitle is-6">
-                        {{ .Summary }}
+                        {{ .Description }}
                     </h6>
                     <div style="margin-top: 1em;">
-                        <span class="tag is-primary is-light">{{ .Params.Time }}</span>
+                        <span class="tag is-primary is-light">{{ .Params.Time | default "—" }}</span>
                         {{ range .Params.Tags }}
-                        <a class="tag" href="/tags/{{ . }}">{{ . }}</a>
+                            <a class="tag" href="/tags/{{ . }}">{{ . }}</a>
                         {{ end }}
                     </div>
                 </div>
